@@ -1,2 +1,4 @@
-# rstudio_git_0106
-test on 0106
+# RR project in RStudio
+RR workshop RStudio + Git repository
+
+My first commit to GitHub with R
